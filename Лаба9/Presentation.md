@@ -1,6 +1,6 @@
-
-- - -
-
+---
+marp: true
+---
 ## Защита лабораторной работы №9
  **"Текстовой редактор vi"**
 
@@ -16,9 +16,9 @@ author: "Малашенко Марина Владимировна"
 
 ## Ход работы
 
-**1.** Создали каталог с именем ~/work/os/lab06. Использовали команду mkdir ~/ work/os/lab06. 
+**1.** Создали каталог с именем ~/work/os/lab09. Использовали команду mkdir ~/ work/os/lab09. 
 
-Перешли во вновь созданный каталог, использовав команду cd~/work/os/lab06. 3. Вызвали Vi и создали файл hello.sh 
+Перешли во вновь созданный каталог, использовав команду cd~/work/os/lab09. Вызвали Vi и создали файл hello.sh 
 
 - - -
 
@@ -80,4 +80,3 @@ author: "Малашенко Марина Владимировна"
 - The vi Open Source Project on Open Hub: Languages Page — 2006
 - The Traditional Vi
 - Bill Joy’s greatest gift to man — the vi editor
-- - -
