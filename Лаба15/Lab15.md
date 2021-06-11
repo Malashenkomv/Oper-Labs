@@ -226,11 +226,11 @@ mkfifo(FIFO_NAME, 0600);
 
 ## Библиография
 
-- The Linux Programmer’s Guide: Named Pipes: https://tldp.org/LDP/lpg/node15.html
+1. The Linux Programmer’s Guide: Named Pipes: https://tldp.org/LDP/lpg/node15.html
 
-- Linux Journal: Introduction to Named Pipes: https://www.linuxjournal.com/article/2156
+2. Linux Journal: Introduction to Named Pipes: https://www.linuxjournal.com/article/2156
 
-- MSDN Library: Named Pipes: https://docs.microsoft.com/ru-ru/windows/win32/ipc/named-pipes?redirectedfrom=MSDN
+3. MSDN Library: Named Pipes: https://docs.microsoft.com/ru-ru/windows/win32/ipc/named-pipes?redirectedfrom=MSDN
 
-- Programing with named pipes (from Sun and for Solaris, but a general enough intro for anyone): https://web.archive.org/web/20120626103458/http://developers.sun.com/solaris/articles/named_pipes.html
+4. Programing with named pipes (from Sun and for Solaris, but a general enough intro for anyone): https://web.archive.org/web/20120626103458/http://developers.sun.com/solaris/articles/named_pipes.html
 
